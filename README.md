@@ -9,10 +9,10 @@
 <table align="center">
   <tr>
     <td>
-    <img src="http://via.placeholder.com/320x480" alt="">
+    <img src="http://via.placeholder.com/160x250" alt="">
     </td>
     <td>
-    <img src="http://via.placeholder.com/320x480" alt="">
+    <img src="http://via.placeholder.com/160x250" alt="">
     </td>
     <td>
       <img src="https://i.ibb.co/52gmkmr/yms1789.png" alt="">
