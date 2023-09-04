@@ -2,25 +2,31 @@
 
 ## 📒교재
 
-- 코어자바스크립트
+- 코어 자바스크립트
 
 ## 👩‍💻팀원
 
 <table align="center">
   <tr>
     <td>
+    <img src="http://via.placeholder.com/640x480" alt="">
     </td>
     <td>
+    <img src="http://via.placeholder.com/640x480" alt="">
     </td>
     <td>
+      <img src="https://i.ibb.co/52gmkmr/yms1789.png" alt="">
     </td>
   </tr>
   <tr>
-    <td>
+    <td style="text-align: center">
+    <a href="https://github.com/kanghaeven">강해빈</a>
     </td>
-    <td>
+    <td style="text-align: center">
+    <a href="https://github.com/hotchapa">김지훈</a>
     </td>
-    <td>
+    <td style="text-align: center">
+    <a href="https://github.com/yms1789">여민수</a>
     </td>
   </tr>
 </table>
@@ -39,12 +45,14 @@
 
 ## 🛠깃헙 레포사용
 
-- 매주 금요일까지 정리해 PR로 올리고 조원들끼리 리뷰를 남긴다.
-
-- 자신의 PR에 모두 리뷰가 달리면 PR을 스스로 머지합니다.
+- 발표 이후 PR을 스스로 머지하고 브랜치를 삭제합니다.
 
 ## 👩‍💻진행상황
 
 ### 1주차 (2023.08.23 ~ 2023.08.30)
 
 - [데이터 타입](./week01/)
+
+### 2주차 (2023.08.31 ~ 2023.09.06)
+
+- [실행 컨텍스트](./week02/)
