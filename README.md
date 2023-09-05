@@ -9,7 +9,7 @@
 <table align="center">
   <tr>
     <td>
-    <img src="http://via.placeholder.com/160x250" alt="">
+    <img src="https://github.com/kanghaeven/Algorithm/assets/122589773/06623fca-d66f-4edc-84aa-712261b15b47" alt=""  width="156">
     </td>
     <td>
     <img src="http://via.placeholder.com/160x250" alt="">
