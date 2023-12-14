@@ -18,6 +18,9 @@
     <td>
       <img src="https://i.ibb.co/52gmkmr/yms1789.png" alt="">
     </td>
+     <td>
+      <img src="http://via.placeholder.com/160x250" alt="">
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">
@@ -28,6 +31,9 @@
     </td>
     <td style="text-align: center">
     <a href="https://github.com/yms1789">여민수</a>
+    </td>
+    <td style="text-align: center">
+    <a href="https://github.com/Kminwo-o">권민우</a>
     </td>
   </tr>
 </table>
@@ -99,6 +105,10 @@
     - 모듈
     - 비동기 프로그래밍
 
-### 9주차 (2023.12.07 ~ 2023.12.13)
+### 9주차 (2023.12.07 ~ 2023.12.14)
 
 - [FE 면접 대비 스터디(DATABASE)](./week09/)
+
+### 10주차 (2023.12.15 ~ 2023.12.20)
+
+- [FE 면접 대비 스터디(DATA STRUCTURE)](./week10/)
