@@ -4,7 +4,7 @@
 
 - 코어 자바스크립트
 - [프론트엔드 기술 면접을 위한 핸드북](https://github.com/junh0328/prepare_frontend_interview)
-
+- 면접을 위한 cs 전공지식 노트
 ## 👩‍💻팀원
 
 <table align="center">
