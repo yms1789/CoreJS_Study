@@ -20,7 +20,7 @@
       <img src="https://i.ibb.co/52gmkmr/yms1789.png" alt="">
     </td>
      <td>
-      <img src="http://via.placeholder.com/160x250" alt="">
+      <img src="https://kwmw0427.s3.ap-northeast-2.amazonaws.com/%EC%A7%80%ED%9B%88%EC%9D%B4%ED%98%95%EC%9D%98+%EC%83%9D%EC%9D%BC%EC%84%A0%EB%AC%BC.png" alt="" width="156">
     </td>
   </tr>
   <tr>
