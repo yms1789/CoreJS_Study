@@ -1,20 +1,20 @@
 # 🎯코어 자바스크립트 스터디 & FE 면접 스터디
 
-## 📒교재
+## 📒 교재
 
-- 코어 자바스크립트
-- [프론트엔드 기술 면접을 위한 핸드북](https://github.com/junh0328/prepare_frontend_interview)
-- 면접을 위한 cs 전공지식 노트
+- ~~코어 자바스크립트~~
+- ~~[프론트엔드 기술 면접을 위한 핸드북](https://github.com/junh0328/prepare_frontend_interview)~~
+- ~~면접을 위한 cs 전공지식 노트~~
 
-## 👩‍💻팀원
+## 👩‍💻 팀원
 
 <table align="center">
   <tr>
     <td>
-    <img src="https://github.com/kanghaeven/Algorithm/assets/122589773/06623fca-d66f-4edc-84aa-712261b15b47" alt=""  width="156">
+      <img src="https://github.com/kanghaeven/Algorithm/assets/122589773/06623fca-d66f-4edc-84aa-712261b15b47" alt=""  width="156">
     </td>
     <td>
-    <img src="http://via.placeholder.com/160x250" alt="">
+      <img src="http://via.placeholder.com/160x250" alt="">
     </td>
     <td>
       <img src="https://i.ibb.co/52gmkmr/yms1789.png" alt="">
@@ -22,30 +22,36 @@
      <td>
       <img src="https://kwmw0427.s3.ap-northeast-2.amazonaws.com/%EC%A7%80%ED%9B%88%EC%9D%B4%ED%98%95%EC%9D%98+%EC%83%9D%EC%9D%BC%EC%84%A0%EB%AC%BC.png" alt="" width="156">
     </td>
+    <td>
+      <img src="http://via.placeholder.com/160x250" alt="">
+    </td>
   </tr>
   <tr>
     <td style="text-align: center">
-    <a href="https://github.com/kanghaeven">강해빈</a>
+      <a href="https://github.com/kanghaeven">강해빈</a>
     </td>
     <td style="text-align: center">
-    <a href="https://github.com/hotchapa">김지훈</a>
+      <a href="https://github.com/hotchapa">김지훈</a>
     </td>
     <td style="text-align: center">
-    <a href="https://github.com/yms1789">여민수</a>
+      <a href="https://github.com/yms1789">여민수</a>
     </td>
     <td style="text-align: center">
-    <a href="https://github.com/Kminwo-o">권민우</a>
+      <a href="https://github.com/Kminwo-o">권민우</a>
+    </td>
+    <td style="text-align: center">
+      <a href="https://github.com/so34so">김민석</a>
     </td>
   </tr>
 </table>
 
-## ⏱️시간
+## ⏱️ 시간
 
-- 수요일 오후 8시
+- 매주 수요일 오후 9시
 
-## ✅진행방식
+## ✅ 진행방식
 
-- 코어자바스크립트
+- ~~코어자바스크립트~~ (완료)
 
   - 정해진 분량을 읽고 학습하여 자신만의 방식으로 글을 요약 정리합니다.
 
@@ -53,11 +59,50 @@
 
   - 발표 이후의 시간에는 자유롭게 토론하고 Q&A 하는 시간을 갖습니다.
 
-- FE 면접 스터디
+- ~~FE 면접 스터디~~ (완료)
 
   - 각자 주제를 정해서 1주일 동안 발표 준비를 합니다.
 
   - 발표 당일 5~10분 간 주제에 대해 발표를 하고 예상 질문지를 통해 질문과 답변을 주고 받습니다.
+
+- 취업 및 이직 스터디 (진행 중)
+
+  - 알고리즘
+
+    - 매일 최소 1문제 이상 풀기 (난이도랑 문제는 본인이 정할 것)
+
+      - 푼 문제는 각자 정리 후 카카오톡으로 인증하기
+
+    - 매주 1회 스터디원끼리 모여서 라이브 알고리즘 진행(1문제, 60분)
+
+      - 문제는 당일에 1명을 랜덤으로 선정해서 해당 인원이 문제를 고릅니다.
+      - 시간 내에 문제를 풀었으면 어떻게 풀었는지 발표
+      - 못풀었다면 내가 어디까지 도출했고 어떤 알고리즘을 써서 풀다가 실패했는지를 자세히 설명합니다.
+
+  - CS
+
+    - 각자 주제를 정하고 주제에 대한 발표 자료 만들어오기 + 퀴즈 준비
+    - 스터디 당일 5 ~ 10분 간 준비해 온 주제에 대해 발표
+    - 발표 후 서로 준비한 퀴즈 풀이 후 질의응답
+    - 진행 과정 중 의견이나 문제점이 있다면 자유롭게 의견 제시
+
+## 🧾 스터디 규칙
+
+- 알고리즘
+
+  - 매일 최소 1문제 이상 풀어서 인증하는 것을 원칙으로 합니다.
+    - 단, 경조사, 면접 등 특별한 사유가 있다면 OK
+      - _코딩 테스트는 면접 갈 것 같다면 OK 아니면 인정 X_
+  - 만약 풀지 않았거나 늦었다면(당일 11:59:59 까지) 옐로카드 1장
+  - 옐로카드 2장 = 반성문 🟨 🟨 = 🟥
+
+- CS 및 라이브 알고리즘
+
+  - 수요일에 참여가 어려우면 미리 얘기해서 스터디원들과 일정 조율하기
+  - 불참시 반성문 작성(수기로 A4용지 1/2 페이지) 🟥
+    - 단, 경조사, 면접 등 특별한 사유가 있다면 OK
+  - 지각은 10분까지 인정. 이후 옐로카드 1장 🟨
+  - 옐로카드 2장 = 반성문 🟨 🟨 = 🟥
 
 ## 🛠깃헙 레포사용
 
