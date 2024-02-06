@@ -10,4 +10,4 @@
 
 ### [권민우](./kwonminwoo.md)
 
-### [김민석]([./kimminseok.md](https://www.notion.so/oop-AOP-FP-f742d85fe2814e7e8bf0caf46ad485e2)https://www.notion.so/oop-AOP-FP-f742d85fe2814e7e8bf0caf46ad485e2)
+### [김민석](https://www.notion.so/oop-AOP-FP-f742d85fe2814e7e8bf0caf46ad485e2).
