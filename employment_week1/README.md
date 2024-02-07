@@ -8,6 +8,6 @@
 
 ### [김지훈](./kimjihun.md)
 
-### [권민우](./kwonminwoo.md)
+### [권민우](./kwonminwoo)
 
 ### [김민석](./kimminseok.md)
