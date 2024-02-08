@@ -4,7 +4,7 @@
 
 ### [강해빈](./kanghaeven.md)
 
-### [여민수](./yeominsu.md)
+### [여민수](./yeominsu/week1_cors.pdf)
 
 ### [김지훈](./kimjihun.md)
 
