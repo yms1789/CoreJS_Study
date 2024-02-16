@@ -2,12 +2,12 @@
 
 ## 발표 주제
 
-### 강해빈: 
+### [강해빈](./kanghaeven/UI스터디_강해빈.pdf)
 
-### 여민수: 동기 / 비동기, 블로킹 / 논블로킹
+### [여민수](./yeominsu/week1_cors.pdf)
 
-### 김지훈: 
+### [김지훈](./kimjihun/Latency&Bandwidth.pdf)
 
-### 권민우: 
+### [권민우](./kwonminwoo/JPA.pdf)
 
-### 김민석: 
+### [김민석](./kimminseok/week2_디자인%20패턴.pdf)
